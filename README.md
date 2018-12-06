@@ -2,7 +2,7 @@
 
 **Tiri Kananuruk**
 
-## Link to [slide](https://www.notion.so/newyork/ITP-Unconference-2018-Wekinator-df1ab6148c974eaa9a327a5ff4361565)
+## Link to [slide](https://www.notion.so/tiri/ITP-Unconference-2018-Wekinator-df1ab6148c974eaa9a327a5ff4361565)
 
 ## Wekinator
 
